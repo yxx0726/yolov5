@@ -4,4 +4,4 @@ val: ../valid/images
 nc: 2
 names: ['CT', 'T']
 
-download: https://kaggle.com/datasets/yx990726/csgo-img/download?datasetVersionNumber=1
+download: https://drive.google.com/uc?export=download&id=1oIp3vedTa_MnwBPJzovAOpdR-DbbhMty
