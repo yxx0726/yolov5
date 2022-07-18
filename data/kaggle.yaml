@@ -1,6 +1,6 @@
-path: ../datasets/coco128
-train: ../train/images
-val: ../valid/images
+path: ../datasets/archive
+train: train/images
+val: valid/images
 
 nc: 2
 names: ['CT', 'T']
