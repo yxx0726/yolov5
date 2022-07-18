@@ -1,6 +1,8 @@
-path: ../input/csgo-img
-train: train/images
-val: valid/images
+path: csgo-img
+train: /train/images
+val: /valid/images
 
 nc: 2
 names: ['CT', 'T']
+
+download: https://www.kaggle.com/datasets/yx990726/csgo-img/download?datasetVersionNumber=1
