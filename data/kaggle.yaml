@@ -1,7 +1,7 @@
-train: ../input/csgo-img/train/images
-val: ../input/csgo-img/valid/images
+train: ../train/images
+val: ../valid/images
 
 nc: 2
 names: ['CT', 'T']
 
-#download: https://www.kaggle.com/datasets/yx990726/csgo-img/download?datasetVersionNumber=1
+download: https://www.kaggle.com/datasets/yx990726/csgo-img/download?datasetVersionNumber=1
