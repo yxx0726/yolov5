@@ -1,0 +1,6 @@
+path: ../input/csgo-img
+train: train
+val: valid
+
+nc: 2
+names: ['CT', 'T']
