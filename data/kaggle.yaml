@@ -1,7 +1,8 @@
+path: ../datasets/coco128
 train: ../train/images
 val: ../valid/images
 
 nc: 2
 names: ['CT', 'T']
 
-download: https://drive.google.com/uc?export=download&id=1oIp3vedTa_MnwBPJzovAOpdR-DbbhMty
+download: https://www.kaggle.com/datasets/yx990726/csgo-img/download?datasetVersionNumber=1
