@@ -1,6 +1,6 @@
 path: ../input/csgo-img
-train: train
-val: valid
+train: ../train/images
+val: ../valid/images
 
 nc: 2
 names: ['CT', 'T']
